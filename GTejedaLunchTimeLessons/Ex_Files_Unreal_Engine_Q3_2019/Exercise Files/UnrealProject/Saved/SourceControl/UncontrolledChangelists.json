@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Super/Desktop/Ex_Files_Unreal_Engine_Q3_2019/Ex_Files_Unreal_Engine_Q3_2019/Exercise Files/UnrealProject/Content/Textures/WindowPane.uasset",
+				"C:/Users/Super/Desktop/Ex_Files_Unreal_Engine_Q3_2019/Ex_Files_Unreal_Engine_Q3_2019/Exercise Files/UnrealProject/Content/Materials/Water_Animated.uasset",
+				"C:/Users/Super/Desktop/Ex_Files_Unreal_Engine_Q3_2019/Ex_Files_Unreal_Engine_Q3_2019/Exercise Files/UnrealProject/Content/01_01.umap",
+				"C:/Users/Super/Desktop/Ex_Files_Unreal_Engine_Q3_2019/Ex_Files_Unreal_Engine_Q3_2019/Exercise Files/UnrealProject/Content/Materials/Animated_Water.uasset"
+			]
+		}
+	]
+}
